@@ -6,4 +6,5 @@ steps:
 2: Found Local IP Using 'ipconfig'
 3: Ran TCP SYN scan with
     'nmap -sS 192.168.1.2'
-4: 
+4: identified open ports and possible vulnerabilities
+5: saved results as 'scan.tct'
